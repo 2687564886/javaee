@@ -211,4 +211,5 @@
 - 常用的设计模式（工厂、单例、策略、代理等）
 - 数据类型（基本数据类型、引用数据类型、枚举）
 - 数组和集合（List、Set、Map）
-- 语法中的关键字（this super final static class interface implements extends throw/throws try-catch-finally  ） 
+- 语法中的关键字（this super final static class interface implements extends throw/throws try-catch-finally  ）
+说的真好
